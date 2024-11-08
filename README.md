@@ -1,6 +1,11 @@
 # 🧠 DeepChain Refinement
 
-An advanced system that enhances prompts through chain-of-thought reasoning and multi-stage refinement processes. This project implements a sophisticated approach to generating more accurate and contextually relevant responses using progressive improvement techniques. The multi-stage architecture helps to minimize hallucinations in AI responses by cross-validating information across different processing stages.
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Ollama](https://img.shields.io/badge/Ollama-Compatible-orange.svg)](https://ollama.ai)
+[![Model](https://img.shields.io/badge/Model-gemma2:9b-purple.svg)](https://ollama.ai)
+
+A sophisticated multi-stage prompt refinement system that leverages chain-of-thought reasoning to enhance AI responses and minimize hallucinations through progressive validation and synthesis.
 
 ## ✨ Features
 
