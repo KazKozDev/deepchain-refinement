@@ -1,0 +1,4 @@
+ollama==0.1.27
+python-dateutil>=2.8.2
+regex>=2023.10.3
+typing-extensions>=4.7.1
