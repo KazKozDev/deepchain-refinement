@@ -78,10 +78,6 @@ Contributions are welcome!
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-Artem Kazakov Kozlov
-
 ## 💬 Support
 
 For questions and support, please open an issue in the GitHub repository.
