@@ -305,8 +305,10 @@ def process_user_input(user_input: str) -> Tuple[List[Dict[str, str]], str]:
 
 def main():
         
-    print("DeepChain Refinement v1.0.0")
-    print("The system uses Chain-of-Thought, Multi-step prompting, Progressive refinement and Response synthesis methods")
+    print("\nDeepChain Refinement LLM v1.0.0:")
+    print("Using chain-of-thought, multi-step prompting,")
+    print("progressive refinement and response synthesis")
+    print("Built on Ollama architecture. Powered by 'Gemma2:9B'\n")
     
     while True:
         try:
