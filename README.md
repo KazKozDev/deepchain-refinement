@@ -1,4 +1,4 @@
-![Description of the image](https://github.com/kazkozdev/deepchain-refinement/blob/main/project-banner.png)
+![Project Banner - DeepChain Refinement Architecture](https://github.com/kazkozdev/deepchain-refinement/blob/main/project-banner.png)
 
 # 🧠 DeepChain Refinement
 
@@ -18,14 +18,16 @@ A sophisticated multi-stage prompt refinement system that leverages chain-of-tho
 - 🎯 **Integrated Intent Analysis**: Analyzes and refines user intent at each stage
 - 🛡️ **Hallucination Mitigation**: Three-stage verification process helps identify and eliminate inconsistencies and hallucinations in AI responses
 
+## 🎬 Demo Preview
+
+![DeepChain Refinement movie](https://github.com/kazkozdev/deepchain-refinement/blob/main/deepchain-refinement-movie.gif)
+
 ## 📋 Requirements
 
 - Python 3.8 or higher
 - Ollama installed and running
 - gemma2:9b model
 - Required Python packages (see requirements.txt)
-
-![DeepChain Refinement movie](https://github.com/kazkozdev/deepchain-refinement/blob/main/deepchain-refinement-movie.gif)
 
 ## 🚀 Quick Start
 
