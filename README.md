@@ -25,6 +25,8 @@ A sophisticated multi-stage prompt refinement system that leverages chain-of-tho
 - gemma2:9b model
 - Required Python packages (see requirements.txt)
 
+![DeepChain Refinement movie](https://github.com/kazkozdev/deepchain-refinement/blob/main/deepchain-refinement-movie.gif)
+
 ## 🚀 Quick Start
 
 1. Clone the repository:
