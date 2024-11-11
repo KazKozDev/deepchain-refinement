@@ -22,6 +22,8 @@ A sophisticated multi-stage prompt refinement system that leverages chain-of-tho
 
 ![DeepChain Refinement movie](https://github.com/kazkozdev/deepchain-refinement/blob/main/deepchain-refinement-movie.gif)
 
+In this demo, a user intentionally enters an ambiguous query "How many discs does Madonna have?" The DeepChain Refinement system shows its sophisticated processing capabilities through three stages: initial prompt analysis, detailed fact verification, and comprehensive synthesis. Using chain-of-thought reasoning and progressive refinement, the system delivers a thorough response that not only answers the direct question but also provides valuable context, distinguishing between studio albums, live recordings, and compilations. The final output includes additional relevant information about her most significant releases and impact on the music industry - all powered by the Gemma2:9B model.
+
 ## 📋 Requirements
 
 - Python 3.8 or higher
