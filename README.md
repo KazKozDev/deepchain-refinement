@@ -1,6 +1,4 @@
-![Project Banner - DeepChain Refinement Architecture](https://github.com/kazkozdev/deepchain-refinement/blob/main/project-banner.png)
-
-# 🧠 DeepChain Refinement
+# DeepChain Refinement
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -8,6 +6,8 @@
 [![Model](https://img.shields.io/badge/Model-gemma2:9b-purple.svg)](https://ollama.ai)
 
 A sophisticated multi-stage prompt refinement system that leverages chain-of-thought reasoning to enhance AI responses and minimize hallucinations through progressive validation and synthesis.
+
+![Project Banner - DeepChain Refinement Architecture](https://github.com/kazkozdev/deepchain-refinement/blob/main/project-banner.png)
 
 ## ✨ Features
 
