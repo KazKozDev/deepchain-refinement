@@ -12,14 +12,7 @@
 
 The tool helps engineers visualize how each refinement stage enhances the quality and depth of LLM outputs.
 
-## Features
-
-- **Chain-of-Thought Processing**: Implements logical reasoning chains for better understanding
-- **Multi-stage Prompting**: Uses three distinct stages of prompt refinement
-- **Progressive Refinement**: Each stage builds upon and improves previous results
-- **Response Synthesis**: Combines multiple processing stages into coherent final output
-- **Integrated Intent Analysis**: Analyzes and refines user intent at each stage
-- **Hallucination Mitigation**: Three-stage verification process helps identify and eliminate inconsistencies and hallucinations in AI responses
+DeepChain features thought chain processing to build logical reasoning chains for better understanding, multi-stage cue processing using three separate stages of cue refinement, and progressive refinement where each stage builds on and improves upon previous results. In addition, the system includes response synthesis to combine multiple processing steps into a consistent final result, integrated intent analysis to analyze and refine user intent at each step, and hallucination reduction. 
 
 ## 🎬 Demo Preview
 
