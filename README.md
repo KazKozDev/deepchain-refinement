@@ -12,9 +12,9 @@
 
 The tool helps engineers visualize how each refinement enhances the quality and depth of LLM outputs.
 
-DeepChain features thought chain processing to build logical reasoning chains, multi-stage cue processing using three separate stages of cue refinement, and progressive refinement where each stage builds on and improves upon previous results. In addition, the system includes response synthesis to combine multiple processing steps into a consistent final result, integrated intent analysis to analyze and refine user intent at each step, and hallucination reduction.
+DeepChain uses a structured, three-stage refinement pipeline to enhance LLM responses. It begins with Basic Analysis, which performs initial prompt processing and baseline generation. The second stage, Detailed Refinement, adds context-aware improvements, intent analysis, and fact verification. Finally, Comprehensive Synthesis integrates and cross-validates information from previous stages into a consistent, in-depth result.
 
-DeepChain employs a three-stage processing approach: Basic Analysis handles initial prompt processing and response generation, followed by Detailed Refinement which provides enhanced analysis with context consideration and fact verification, and culminates with Comprehensive Synthesis as the final stage featuring complete topic analysis and cross-validation of information.
+The system combines chain-of-thought reasoning, multi-stage cue refinement, and progressive enhancement, where each stage builds on the last. It also includes hallucination reduction and automated synthesis to ensure clarity, depth, and accuracy.
 
 ### 🎬 Demo
 
