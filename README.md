@@ -7,7 +7,11 @@
   <a href="https://ollama.ai"><img src="https://img.shields.io/badge/Model-gemma2:9b-purple.svg" alt="Model"></a>
 </p>
 
-This Python-based system automatically improves the quality of LLM responses by applying a multi-step process of prompt refinement and information verification, which greatly reduces the likelihood of hallucinations.
+DeepChain is a Python-based system that automatically applies refinement techniques. 
+
+One script. Three passes of refinement. 
+
+The tool helps engineers visualize how each refinement stage enhances the quality and depth of LLM outputs.
 
 ## Features
 
