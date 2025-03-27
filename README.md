@@ -20,7 +20,7 @@ DeepChain features thought chain processing to build logical reasoning chains, m
 
 In this example, the user submits an ambiguous query "How many discs does Madonna have?" Through a refinement process, the system demonstrates its analytical capabilities by providing a comprehensive response that breaks down Madonna's discography into studio albums, live recordings, and compilations. The response includes key information about her most significant releases, offering relevant context to fully address the query.
 
-## 📋 Requirements
+### 📋 Requirements
 
 - Python 3.8 or higher
 - Ollama installed and running
