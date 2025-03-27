@@ -29,7 +29,7 @@ The system combines chain-of-thought reasoning, multi-stage cue refinement, and 
 - gemma2:9b model
 - Required Python packages (see requirements.txt)
 
-### 🏁 Quick Start
+### 👉 Quick Start
 
 1. Clone the repository:
 ```bash
@@ -60,4 +60,9 @@ deepchain-refinement/
 
 MIT License - [LICENSE](LICENSE).
 
-**Note**: This project requires Ollama to be installed and running with the gemma2:9b model available.
+---
+If you like this project, please give it a star ⭐
+
+For questions, feedback, or support, reach out to:
+
+[Artem KK](https://www.linkedin.com/in/kazkozdev/)
