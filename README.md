@@ -10,7 +10,7 @@
 <p align="center">DeepChain is a Python-based system that automatically applies refinement techniques to LLM.</p>
 <p align="center">One script. Three iterations.</p>
 
-The tool helps engineers visualize how each refinement stage enhances the quality and depth of LLM outputs.
+The tool helps engineers visualize how each refinement enhances the quality and depth of LLM outputs.
 
 DeepChain features thought chain processing to build logical reasoning chains, multi-stage cue processing using three separate stages of cue refinement, and progressive refinement where each stage builds on and improves upon previous results. In addition, the system includes response synthesis to combine multiple processing steps into a consistent final result, integrated intent analysis to analyze and refine user intent at each step, and hallucination reduction.
 
