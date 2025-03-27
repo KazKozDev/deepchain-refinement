@@ -1,4 +1,4 @@
-Multi-stage prompt refinement system that leverages chain-of-thought reasoning to enhance AI responses and minimize hallucinations through progressive validation and synthesis.
+This Python-based system automatically improves the quality of LLM responses by applying a multi-step process of hint refinement and information verification, which greatly reduces the likelihood of hallucinations.
 
 ![banner](https://github.com/user-attachments/assets/958180f9-798a-442c-b93d-4e561358f33e)
 
