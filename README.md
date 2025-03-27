@@ -1,5 +1,4 @@
 
-
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Ollama](https://img.shields.io/badge/Ollama-Compatible-orange.svg)](https://ollama.ai)
@@ -9,7 +8,7 @@ A sophisticated multi-stage prompt refinement system that leverages chain-of-tho
 
 ![banner](https://github.com/user-attachments/assets/958180f9-798a-442c-b93d-4e561358f33e)
 
-## ✨ Features
+## Features
 
 - **Chain-of-Thought Processing**: Implements logical reasoning chains for better understanding
 - **Multi-stage Prompting**: Uses three distinct stages of prompt refinement
