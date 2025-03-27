@@ -7,7 +7,7 @@
 
 A sophisticated multi-stage prompt refinement system that leverages chain-of-thought reasoning to enhance AI responses and minimize hallucinations through progressive validation and synthesis.
 
-![Project Banner - DeepChain Refinement Architecture](https://github.com/kazkozdev/deepchain-refinement/blob/main/project-banner.png)
+![banner](https://github.com/user-attachments/assets/958180f9-798a-442c-b93d-4e561358f33e)
 
 ## ✨ Features
 
