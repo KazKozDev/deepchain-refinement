@@ -1,12 +1,12 @@
+Multi-stage prompt refinement system that leverages chain-of-thought reasoning to enhance AI responses and minimize hallucinations through progressive validation and synthesis.
+
+![banner](https://github.com/user-attachments/assets/958180f9-798a-442c-b93d-4e561358f33e)
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Ollama](https://img.shields.io/badge/Ollama-Compatible-orange.svg)](https://ollama.ai)
 [![Model](https://img.shields.io/badge/Model-gemma2:9b-purple.svg)](https://ollama.ai)
 
-A sophisticated multi-stage prompt refinement system that leverages chain-of-thought reasoning to enhance AI responses and minimize hallucinations through progressive validation and synthesis.
-
-![banner](https://github.com/user-attachments/assets/958180f9-798a-442c-b93d-4e561358f33e)
 
 ## Features
 
