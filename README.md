@@ -1,6 +1,5 @@
-This Python-based system automatically improves the quality of LLM responses by applying a multi-step process of hint refinement and information verification, which greatly reduces the likelihood of hallucinations.
-
-![banner](https://github.com/user-attachments/assets/958180f9-798a-442c-b93d-4e561358f33e)
+This Python-based system automatically improves the quality of LLM responses by applying a multi-step process of prompt refinement and information verification, which greatly reduces the likelihood of hallucinations.
+<img src="https://github.com/user-attachments/assets/958180f9-798a-442c-b93d-4e561358f33e" width="600" alt="banner">
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
