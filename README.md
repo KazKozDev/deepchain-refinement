@@ -9,7 +9,7 @@
 
 DeepChain is a Python-based system that automatically applies refinement techniques. 
 
-One script. Three passes of refinement. 
+One script. Three iterations.
 
 The tool helps engineers visualize how each refinement stage enhances the quality and depth of LLM outputs.
 
