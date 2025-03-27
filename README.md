@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">DeepChain is a Python-based system that automatically applies refinement techniques to LLM.</p>
-<p align="center">One script. Three iterations.</p>
+<p align="center">One input. Three iterations.</p>
 
 The tool helps engineers visualize how each refinement prompt enhances the quality and depth of LLM outputs.
 
