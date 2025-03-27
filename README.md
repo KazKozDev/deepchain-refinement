@@ -14,7 +14,7 @@ The tool helps engineers visualize how refinement prompts enhances the quality a
 
 DeepChain uses a structured, three-stage refinement pipeline. It begins with basic analysis, which performs initial prompt processing and baseline generation. The second stage, detailed refinement, adds context-aware improvements, intent analysis, and fact verification. Finally, comprehensive synthesis integrates and cross-validates information from previous stages into a consistent, in-depth result.
 
-The system combines chain-of-thought reasoning, multi-stage cue refinement, and progressive enhancement, where each stage builds on the last. It also includes hallucination reduction and automated synthesis to ensure clarity, depth, and accuracy.
+The system combines chain-of-thought reasoning, multi-stage cue refinement, and progressive enhancement, where each stage builds on the last. It also includes hallucination reduction and automated synthesis to ensure clarity, depth, and accuracy.<br><br>
 
 ### 🎬 Demo
 
