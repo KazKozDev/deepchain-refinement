@@ -1,10 +1,12 @@
 This Python-based system automatically improves the quality of LLM responses by applying a multi-step process of prompt refinement and information verification, which greatly reduces the likelihood of hallucinations.
-<img src="https://github.com/user-attachments/assets/958180f9-798a-442c-b93d-4e561358f33e" width="600" alt="banner">
-
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Ollama](https://img.shields.io/badge/Ollama-Compatible-orange.svg)](https://ollama.ai)
-[![Model](https://img.shields.io/badge/Model-gemma2:9b-purple.svg)](https://ollama.ai)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/958180f9-798a-442c-b93d-4e561358f33e" width="600" alt="banner">
+  <br>
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
+  <a href="https://ollama.ai"><img src="https://img.shields.io/badge/Ollama-Compatible-orange.svg" alt="Ollama"></a>
+  <a href="https://ollama.ai"><img src="https://img.shields.io/badge/Model-gemma2:9b-purple.svg" alt="Model"></a>
+</div>
 
 
 ## Features
