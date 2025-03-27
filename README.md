@@ -14,8 +14,6 @@ The tool helps engineers visualize how each refinement stage enhances the qualit
 
 DeepChain features thought chain processing to build logical reasoning chains, multi-stage cue processing using three separate stages of cue refinement, and progressive refinement where each stage builds on and improves upon previous results. In addition, the system includes response synthesis to combine multiple processing steps into a consistent final result, integrated intent analysis to analyze and refine user intent at each step, and hallucination reduction.
 
-## 🎬 Demo Preview
-
 ![DeepChain Refinement movie](https://github.com/kazkozdev/deepchain-refinement/blob/main/deepchain-refinement-movie.gif)
 
 In this example, the user submits an ambiguous query "How many discs does Madonna have?" Through a refinement process, the system demonstrates its analytical capabilities by providing a comprehensive response that breaks down Madonna's discography into studio albums, live recordings, and compilations. The response includes key information about her most significant releases, offering relevant context to fully address the query.
@@ -64,26 +62,8 @@ deepchain-refinement/
     └── README.md         # This documentation
 ```
 
-### Key Components
-
-- 🧩 Intent Analysis System
-- 🔄 Multi-stage Prompt Generator
-- ⚙️ Response Processing Engine
-- 🎯 Final Synthesis Module
-- 🛡️ Cross-validation System for Hallucination Prevention
-
-## 👥 Contributing
-
-Contributions are welcome! 
-
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 💬 Support
-
-For questions and support, please open an issue in the GitHub repository.
-
----
+MIT License - [LICENSE](LICENSE).
 
 **Note**: This project requires Ollama to be installed and running with the gemma2:9b model available.
