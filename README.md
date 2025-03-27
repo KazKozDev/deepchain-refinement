@@ -7,7 +7,7 @@
   <a href="https://ollama.ai"><img src="https://img.shields.io/badge/Model-gemma2:9b-purple.svg" alt="Model"></a>
 </p>
 
-DeepChain is a Python-based system that automatically applies refinement techniques. 
+DeepChain is a Python-based system that automatically applies refinement techniques to LLM. 
 
 One script. Three iterations.
 
