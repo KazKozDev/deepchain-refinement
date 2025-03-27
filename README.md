@@ -29,7 +29,7 @@ The system combines chain-of-thought reasoning, multi-stage cue refinement, and 
 - gemma2:9b model
 - Required Python packages (see requirements.txt)
 
-### Quick Start
+### 🏁 Quick Start
 
 1. Clone the repository:
 ```bash
