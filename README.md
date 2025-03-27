@@ -44,16 +44,6 @@ pip install -r requirements.txt
 ```bash
 python src/main.py
 ```
-
-### Technical Details
-
-### System Architecture
-
-The system operates in three main stages:
-1. 🔍 **Basic Analysis**: Initial prompt processing and response generation
-2. 🔎 **Detailed Refinement**: Enhanced analysis with context consideration and fact verification
-3. 🎯 **Comprehensive Synthesis**: Final stage with complete topic analysis and cross-validation
-
 ### Project Structure
 ```
 deepchain-refinement/
