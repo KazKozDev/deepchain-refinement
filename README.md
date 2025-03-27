@@ -7,7 +7,6 @@
   <a href="https://ollama.ai"><img src="https://img.shields.io/badge/Model-gemma2:9b-purple.svg" alt="Model"></a>
 </p>
 
-<h1 align="center">DeepChain</h1>
 <p align="center">DeepChain is a Python-based system that automatically applies refinement techniques to LLM.</p>
 <p align="center">One script. Three iterations.</p>
 
