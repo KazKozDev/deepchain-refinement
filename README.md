@@ -1,4 +1,4 @@
-This Python-based system automatically improves the quality of LLM responses by applying a multi-step process of prompt refinement and information verification, which greatly reduces the likelihood of hallucinations.
+
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/958180f9-798a-442c-b93d-4e561358f33e" width="600" alt="banner">
   <br>
@@ -8,6 +8,7 @@ This Python-based system automatically improves the quality of LLM responses by 
   <a href="https://ollama.ai"><img src="https://img.shields.io/badge/Model-gemma2:9b-purple.svg" alt="Model"></a>
 </div>
 
+This Python-based system automatically improves the quality of LLM responses by applying a multi-step process of prompt refinement and information verification, which greatly reduces the likelihood of hallucinations.
 
 ## Features
 
