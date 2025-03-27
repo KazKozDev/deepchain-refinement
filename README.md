@@ -22,8 +22,7 @@ The system combines chain-of-thought reasoning, multi-stage cue refinement, and 
 
 > In this example, the user sends the ambiguous query "How many disks does Madonna have?". Through DeepChain's refinement process, the system demonstrates how a small Gemma2:9B model is enhanced with multi-stage reasoning capabilities. The system showcases improved analytical performance by providing a comprehensive answer that categorizes Madonna's discography into studio albums, live recordings, and compilations. The answer includes key information about her most significant releases, offering the appropriate context for a complete answer to the query - all achieved by applying refinement techniques to a relatively compact 9B parameter model that wouldn't typically exhibit such sophisticated reasoning on its own.
 
-<p></p>
-
+<br><br>
 ### 📋 Requirements
 
 - Python 3.8 or higher
