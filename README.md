@@ -9,12 +9,6 @@
 
 DeepChain is a Python-based pipeline that applies a three-stage refinement process to LLM outputs (using gemma2:9b via Ollama). By combining chain-of-thought prompting, context-aware improvements, and fact‐checking, it produces more accurate and in-depth answers from a compact model.
 
-### 🎬 Demo
-
-![DeepChain Refinement movie](https://github.com/kazkozdev/deepchain-refinement/blob/main/deepchain-refinement-movie.gif)
-
-> In this example, the user sends the ambiguous query "How many disks does Madonna have?". Through DeepChain's refinement process, the system demonstrates how a small Gemma2:9B model is enhanced with multi-stage reasoning capabilities. The system showcases improved analytical performance by providing a comprehensive answer that categorizes Madonna's discography into studio albums, live recordings, and compilations. The answer includes key information about her most significant releases, offering the appropriate context for a complete answer to the query - all achieved by applying refinement techniques to a relatively compact 9B parameter model that wouldn't typically exhibit such sophisticated reasoning on its own.
-
 ---
 
 ## Key Features
@@ -36,6 +30,10 @@ DeepChain is a Python-based pipeline that applies a three-stage refinement proce
 ---
 
 ## Demo / Usage Example
+
+![DeepChain Refinement movie](https://github.com/kazkozdev/deepchain-refinement/blob/main/deepchain-refinement-movie.gif)
+
+> In this example, the user sends the ambiguous query "How many disks does Madonna have?". Through DeepChain's refinement process, the system demonstrates how a small Gemma2:9B model is enhanced with multi-stage reasoning capabilities. The system showcases improved analytical performance by providing a comprehensive answer that categorizes Madonna's discography into studio albums, live recordings, and compilations. The answer includes key information about her most significant releases, offering the appropriate context for a complete answer to the query - all achieved by applying refinement techniques to a relatively compact 9B parameter model that wouldn't typically exhibit such sophisticated reasoning on its own.
 
 1. **Clone and Install**  
    ```bash
