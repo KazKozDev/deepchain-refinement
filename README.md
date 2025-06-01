@@ -7,10 +7,8 @@
    <a href="https://ollama.ai"><img src="https://img.shields.io/badge/Model-gemma2:9b-purple.svg" alt="Model"></a>
 </p>
 
-# DeepChain Refinement
-
-**TL;DR:**  
 DeepChain is a Python-based pipeline that applies a three-stage refinement process to LLM outputs (using gemma2:9b via Ollama). By combining chain-of-thought prompting, context-aware improvements, and fact‐checking, it produces more accurate and in-depth answers from a compact model.
+
 ### 🎬 Demo
 
 ![DeepChain Refinement movie](https://github.com/kazkozdev/deepchain-refinement/blob/main/deepchain-refinement-movie.gif)
