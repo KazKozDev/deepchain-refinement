@@ -9,7 +9,6 @@
 
 DeepChain is a Python-based pipeline that applies a three-stage refinement process to LLM outputs (using gemma2:9b via Ollama). By combining chain-of-thought prompting, context-aware improvements, and fact‐checking, it produces more accurate and in-depth answers from a compact model.
 
----
 
 ## Key Features
 
@@ -36,16 +35,16 @@ DeepChain is a Python-based pipeline that applies a three-stage refinement proce
 > In this example, the user sends the ambiguous query "How many disks does Madonna have?". Through DeepChain's refinement process, the system demonstrates how a small Gemma2:9B model is enhanced with multi-stage reasoning capabilities. The system showcases improved analytical performance by providing a comprehensive answer that categorizes Madonna's discography into studio albums, live recordings, and compilations. The answer includes key information about her most significant releases, offering the appropriate context for a complete answer to the query - all achieved by applying refinement techniques to a relatively compact 9B parameter model that wouldn't typically exhibit such sophisticated reasoning on its own.
 
 1. **Clone and Install**  
-   ```bash
+```bash
    git clone https://github.com/KazKozDev/deepchain-refinement.git
    cd deepchain-refinement
    pip install -r requirements.txt
-   ```
+```
 
 2. **Run the Pipeline**  
-   ```bash
+```bash
    python src/main.py --prompt "How many discs does Madonna have?"
-   ```
+```
 
 ---
 
@@ -54,14 +53,14 @@ DeepChain is a Python-based pipeline that applies a three-stage refinement proce
 1. **Ensure Python 3.8+ is installed**.  
 2. **Install Ollama** and confirm it is running locally.  
 3. **Clone this repository**:  
-   ```bash
+```bash
    git clone https://github.com/KazKozDev/deepchain-refinement.git
    cd deepchain-refinement
-   ```
+```
 4. **Install Python dependencies**:  
-   ```bash
+```bash
    pip install -r requirements.txt
-   ```
+```
 
 ---
 
